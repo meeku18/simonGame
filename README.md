@@ -6,5 +6,4 @@
 - Quick Sort
 - Merge Sort
 
-### This is built using HTML, CSS, JavaScript <br/>
 
